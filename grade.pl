@@ -1,7 +1,3 @@
-% Andy Nguyen
-% CS 4337.502
-% Homework 5 Problem 8
-
 % 8a. List of facts representing grades of students:
 grade(alice, a).
 grade(brian, b).
