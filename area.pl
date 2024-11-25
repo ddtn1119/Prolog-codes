@@ -1,7 +1,3 @@
-% Andy Nguyen
-% CS 4337.502
-% Homework 5 Problem 7
-
 % calculate the area of different shapes: circle, rectangle, and triangle.
 
 % area of a circle
@@ -20,4 +16,4 @@ area(triangle(Base, Height), Area) :-
 % Prolog cannot solve for the shape or dimensions of the shape based on the area alone.
 % Arithmetic operations are not inverses.
 % An area is also not unique to be used for producing a shape.
-% There is also lack of constraint solving in Prolog.
+% There is also a lack of constraint-solving in Prolog.
