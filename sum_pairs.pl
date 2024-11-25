@@ -1,7 +1,3 @@
-% Andy Nguyen
-% CS 4337.502
-% Homework 5 Problem 9
-
 % base case: empty list
 sum_pairs([], []).
 % if the list has only one element, return that element
